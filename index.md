@@ -1,7 +1,6 @@
 ---
-title: MyWineCellar
+site.title: MyWineCellar
 ---
-# MyWineCellar
 
 MyWineCellar is a web application for keeping track of wines, their tasting notes, and reviews.
 
