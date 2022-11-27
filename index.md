@@ -4,5 +4,6 @@ Take a look at our [screenshots](/screenshots.html) !
 
 Get involved with our community at
 <a href="https://github.com/My-Wine-Cellar/winecellar-webapp">
+  <img src="/images/433-github.png" alt="GitHub"/>
   <span class="label">My-Wine-Cellar/winecellar-webapp</span>
 </a>
