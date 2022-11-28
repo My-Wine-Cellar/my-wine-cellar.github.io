@@ -17,15 +17,15 @@ Take a look at our [screenshots](/screenshots.html) !
 
 ## Contributions
 
-Contributions to winecellar-webapp are managed on 
+Contributions to MyWineCellar are managed on 
 <a href="https://github.com/My-Wine-Cellar/winecellar-webapp">
   <img src="/images/433-github.png" alt="GitHub"/>
   <span class="label">My-Wine-Cellar/winecellar-webapp</span>
 </a>
 
-* [Ask a question](https://github.com/My-Wine-Cellar/winecellar-webapp/discussions)
-* [Raise an issue](https://github.com/My-Wine-Cellar/winecellar-webapp/issues)
-* [Feature request](https://github.com/My-Wine-Cellar/winecellar-webapp/issues)
+* [Ask a question](https://github.com/My-Wine-Cellar/winecellar-webapp/discussions/categories/general)
+* [Raise an issue](https://github.com/My-Wine-Cellar/winecellar-webapp/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
+* [Feature request](https://github.com/My-Wine-Cellar/winecellar-webapp/issues/new?assignees=&labels=feature&template=feature_request.md&title=)
 * [Code submission](https://github.com/My-Wine-Cellar/winecellar-webapp/pulls)
 
 Contributions are most welcome !
