@@ -1,5 +1,7 @@
 MyWineCellar is a web application for keeping track of wines, their tasting notes, and reviews.
 
+The goal is to be the premier open-source wine cellar application.
+
 ## Technologies
 
 * [Java 17](https://www.oracle.com/java/technologies/)
