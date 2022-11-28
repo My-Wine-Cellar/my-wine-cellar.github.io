@@ -13,4 +13,4 @@
 ![sc6](/images/sc6.png)
 
 
-Note, that the screenshots may not represent the all of the information on the page in question.
+Note, that the screenshots may not represent all of the information on the page in question.
